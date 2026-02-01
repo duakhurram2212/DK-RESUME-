@@ -11,7 +11,7 @@ A personal CV website showcasing my education, skills, experience and projects. 
  Live Website:
 https://dk-resume-iota.vercel.app
 
- Author
+ 
 Name: Dua Khurram  
 Roll No: 23L-0726 
 FAST NUCES Lahore
